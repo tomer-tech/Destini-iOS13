@@ -7,5 +7,5 @@
 //
 
 import Foundation
-
-
+//its called brain because all the data and calculations will be stored here
+struct StoryBrain{} 
